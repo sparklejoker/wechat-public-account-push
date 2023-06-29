@@ -11,17 +11,17 @@ const USER_CONFIG = {
   APP_ID: 'wx44a3cbe3fc5fc140',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '79a076957f9553ba43eb11fa15b743b1',
+  APP_SECRET: '5cef650a27a323f962ed7745e5e5ce7e',
 
   PROVINCE: '江西',
-  CITY: '黎川县',
+  CITY: '抚州',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '吴学斌',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'sparkle',
+      id: 'oDCdW6re5QwLECmZk0p8RIp-hMkg',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '4eUs92HTyjealDe3Y3VD8oJVduirkaMj-f5NNxZv-1g',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
