@@ -32,7 +32,7 @@ const USER_CONFIG = {
           type: '生日', name: '测试者', year: '2002', date: '11-06',
         },
       ],
-      horoscopeDateType: '今日'
+      horoscopeDateType: '今日',
       
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
