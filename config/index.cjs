@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '5cef650a27a323f962ed7745e5e5ce7e',
 
   PROVINCE: '江西',
-  CITY: '黎川',
+  CITY: '黎川县',
 
 
   SWITCH: {
@@ -42,7 +42,7 @@ const USER_CONFIG = {
   },
 
   TIAN_API: {
-    key: '',
+    key: 'b55155b8ae1ece0586f8e2dd7123009b',
     
     
     morningGreeting: false,
